@@ -1,0 +1,1 @@
+In this folder you can find the raw(intial) data for the project.
